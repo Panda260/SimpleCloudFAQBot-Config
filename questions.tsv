@@ -1,0 +1,324 @@
+Wo finde ich die api	find_api
+wo finde ich die api docs	find_api_docs
+wo finde ich die api dokumentation	find_api_docs
+Es wurde kein Ausweichserver Gefunden	no_fallback_server
+Keine Server startet	no_start_server
+Der Server startet nicht	no_start_server
+"Mein Server startet nicht "	no_start_server
+Mein Server lässt sich nicht starten.	no_start_server
+Wie kann ich einen Server starten	start_server
+Der Server lässt sich nicht starten.	no_start_server
+Wie kann ich einen Server stoppen	stop_server
+Wie stoppe ich einen Server?	stop_server
+wo finde ich das chat tab Module	find_module_chat_tab
+gibt es ein chat tab module?	find_module_chat_tab
+gibt es ein Prefix Suffix module?	find_module_chat_tab
+gibt es ein Prefix Suffix system?	find_module_chat_tab
+ich kann mich im dashboard nicht einloggen	login_dashboard_error
+wo finde ich das dashboard	find_dashboard
+habt ihr einen Jenkins Server	find_ci
+habt ihr einen CI Server	find_ci
+wo finde ich den CI Server	find_ci
+habt ihr einen Repo Server	find_repo
+Wo finde ich den Repo Server	find_repo
+wo finde ich das Statistic Module	find_module_statistic
+mein wrapper verbindet sich nicht	no_connect_wrapper
+mein wrapper verbindet sich nicht mit dem master	no_connect_wrapper
+welche Placeholder gibt es	find_placeholder
+wie stoppe ich eine Gruppe	stop_group
+wie kann ich eine Gruppe erstellen	create_group
+wie erstelle ich eine Gruppe	create_group
+wie kann ich eine Gruppe löschen	delete_group
+wie lösche ich eine Gruppe	delete_group
+wie kann ich eine Gruppe bearbeiten	edit_group
+wie bearbeite ich eine Gruppe	edit_group
+wie kann ich einen Wrapper bearbeiten	edit_wrapper
+wie bearbeite ich einen Wrapper	edit_wrapper
+wie kann ich einen Wrapper löschen	delete_wrapper
+wie lösche ich ein Wrapper	delete_wrapper
+wie kann ich einen Wrapper erstellen	create_wrapper
+wie erstelle ich einen Wrapper	create_wrapper
+wie kann ich eine java version erstellen	create_java_version
+wie erstelle ich eine java version	create_java_version
+wie kann ich einen Proxy erstellen	create_proxy
+wie erstelle ich eine Proxy	create_proxy
+wie kann ich eine Proxy bearbeiten	edit_proxy
+wie bearbeite ich eine Proxy	edit_proxy
+wie kann ich eine Proxy löschen	delete_proxy
+wie lösche ich eine Proxy	delete_proxy
+wie kann ich eine Lobby bearbeiten	edit_lobby
+wie bearbeite ich eine Lobby	edit_lobby
+wie kann ich eine Lobby löschen	delete_lobby
+wie löschen ich eine Lobby	delete_lobby
+wie kann ich eine Lobby erstellen	create_lobby
+wie erstelle ich eine Lobby	create_lobby
+wie kann ich eine Server erstellen	create_server
+wie erstellt man Server?	create_server
+wie kann ich eine Server bearbeiten	edit_server
+wie bearbeite ich eine Server	edit_server
+wie kann ich von einem Server den Status ändern	change_state_server
+wie kann ich von einen Server den Status ändern	change_state_server
+wie kann ich den Status von eine Server ändern	change_state_server
+wie kann ich den Status von einem Server ändern	change_state_server
+wie ändere ich der Status von eine Server	change_state_server
+wie ändere ich den Server Status	change_state_server
+wie kann ich dem Wrapper mehr ram geben	edit_wrapper_ram
+wie mache ich das das mehr server gleichzeitig starten können	start_multiple_server
+wie mache ich das das der wrapper mehr server auf einmal starten kann	start_multiple_server
+Wo finde ich die api	find_api
+Ich suche nach der api	find_api
+Kannst du mir sagen, wo ich die api finden kann?	find_api
+Ich benötige Informationen zur api	find_api
+wo finde ich die api dokumentation	find_api_docs
+Ich brauche Hilfe bei der Suche nach der api Dokumentation	find_api_docs
+Kannst du mir sagen, wo ich die api Dokumentation finden kann?	find_api_docs
+Ich suche die Dokumentation für die api	find_api_docs
+Es wurde kein Ausweichserver Gefunden	no_fallback_server
+Kein Ersatzserver verfügbar	no_fallback_server
+Kein Backup_Server gefunden	no_fallback_server
+Es gibt keinen Ersatz für den Server	no_fallback_server
+Keine Server startet	no_start_server
+Der Server startet nicht	no_start_server
+Es gibt Probleme beim Starten des Servers	no_start_server
+Der Server lässt sich nicht starten	no_start_server
+Wie kann ich einen Server starten	start_server
+Kannst du mir erklären, wie ich den Server starte?	start_server
+Ich brauche Hilfe beim Starten des Servers	start_server
+Wie starte ich den Server?	start_server
+Wie kann ich einen Server stoppen	stop_server
+Kannst du mir erklären, wie ich den Server stoppe?	stop_server
+Ich brauche Hilfe beim Stoppen des Servers	stop_server
+Wie stoppe ich den Server?	stop_server
+wo finde ich das chat+tab Module	find_module_chat_tab
+Ich suche das Chat_Tab_Modul	find_module_chat_tab
+Kannst du mir sagen, wo ich das Chat_Tab_Modul finden kann?	find_module_chat_tab
+Wo genau finde ich das Chat_Tab_Modul?	find_module_chat_tab
+ich kann mich im dashboard nicht einloggen	login_dashboard_error
+Ich habe Probleme mich im Dashboard einzuloggen	login_dashboard_error
+Kannst du mir helfen mich im Dashboard anzumelden?	login_dashboard_error
+Es gibt Schwierigkeiten beim Einloggen ins Dashboard	login_dashboard_error
+Wo kann ich das Dashboard finden?	find_dashboard
+Könnt ihr mir sagen, wo ich den Jenkins_Server finde?	find_ci
+Wo ist der Repo_Server?	find_repo
+Wie komme ich zum Statistik_Modul?	find_module_statistic
+Ich kann keine Verbindung zu meinem Wrapper herstellen.	no_connect_wrapper
+Wo genau ist das Dashboard zu finden?	find_dashboard
+Könnt ihr mir sagen, wo ich das Dashboard finden kann?	find_dashboard
+Ich suche das Dashboard. Wo ist es zu finden?	find_dashboard
+Habt ihr eine Idee, wo ich den Jenkins_Server finde?	find_ci
+Könnt ihr mir sagen, wo ich den Jenkins_Server finden kann?	find_ci
+Ich benötige den Jenkins_Server. Wo ist er zu finden?	find_ci
+Wo genau befindet sich der Repo_Server?	find_repo
+Könnt ihr mir sagen, wo ich den Repo_Server finden kann?	find_repo
+Ich benötige den Repo_Server. Wo kann ich ihn finden?	find_repo
+Wie komme ich zum Modul für Statistik?	find_module_statistic
+Wo ist das Statistik_Modul zu finden?	find_module_statistic
+Ich brauche Hilfe bei der Suche nach dem Statistik_Modul. Wo finde ich es?	find_module_statistic
+Ich kann keine Verbindung zu meinem Wrapper herstellen. Was kann ich tun?	no_connect_wrapper
+Mein Wrapper will einfach nicht verbinden. Wie kann ich das Problem lösen?	no_connect_wrapper
+Ich benötige Unterstützung bei der Fehlerbehebung für meinen Wrapper. Was kann ich tun?	no_connect_wrapper
+Welche Arten von Platzhaltern stehen zur Verfügung?	find_placeholder
+Könnt ihr mir bitte sagen, welche Platzhalter zur Verfügung stehen?	find_placeholder
+Wo finde ich eine Liste aller verfügbaren Platzhalter?	find_placeholder
+Ich benötige eine Übersicht über alle verfügbaren Platzhalter. Wo finde ich diese?	find_placeholder
+Wie kann ich eine Gruppe stoppen?	stop_group
+Wie kann ich eine Gruppe stoppen? Können Sie mir bitte weiterhelfen?	stop_group
+Ich möchte eine Gruppe stoppen. Was muss ich tun?	stop_group
+Wie beende ich eine Gruppe? Bitte um Hilfe.	stop_group
+Gibt es einen Repo Server?	find_repo
+Habt ihr einen Jenkins Server?	find_ci
+Wie kann ich eine Gruppe stoppen?	stop_group
+Wo finde ich das Dashboard?	find_dashboard
+Wo finde ich das Statistik_Modul?	find_module_statistic
+Welche Arten von Platzhaltern stehen zur Verfügung?	find_placeholder
+Ich kann keine Verbindung zu meinem Wrapper herstellen.	no_connect_wrapper
+Könnt ihr mir sagen, wo ich den Jenkins_Server finden kann?	find_ci
+Könnt ihr mir sagen, wo ich den Repo_Server finden kann?	find_repo
+Mein Wrapper will einfach nicht verbinden. Wie kann ich das Problem lösen?	no_connect_wrapper
+Ich benötige eine Übersicht über alle verfügbaren Platzhalter. Wo finde ich diese?	find_placeholder
+Ich brauche Hilfe bei der Suche nach dem Statistik_Modul. Wo finde ich es?	find_module_statistic
+Ich möchte eine Gruppe stoppen. Was muss ich tun?	stop_group
+Wo ist das Statistik_Modul zu finden?	find_module_statistic
+Ich benötige den Repo_Server. Wo kann ich ihn finden?	find_repo
+Ich suche das Dashboard. Wo ist es zu finden?	find_dashboard
+Wie beende ich eine Gruppe? Bitte um Hilfe.	stop_group
+Ich benötige Unterstützung bei der Fehlerbehebung für meinen Wrapper. Was kann ich tun?	no_connect_wrapper
+Könnt ihr mir bitte sagen, welche Platzhalter zur Verfügung stehen?	find_placeholder
+Ich benötige den Jenkins_Server. Wo ist er zu finden?	find_ci
+Ich kann keine Verbindung zu meinem Wrapper herstellen. Was kann ich tun?	no_connect_wrapper
+Ich suche das Dashboard. Wo genau ist es zu finden?	find_dashboard
+Könnt ihr mir sagen, wo ich das Dashboard finden kann?	find_dashboard
+Ich brauche das Dashboard. Wo finde ich es?	find_dashboard
+Habt ihr eine Idee, wo ich den Jenkins_Server finden kann?	find_ci
+Könnt ihr mir sagen, wo ich den Jenkins_Server finde?	find_ci
+Ich benötige den Jenkins_Server. Wo ist er zu finden?	find_ci
+Wo genau befindet sich der Repo_Server?	find_repo
+Ich benötige den Repo_Server. Wo ist er zu finden?	find_repo
+Könnt ihr mir sagen, wo ich den Repo_Server finde?	find_repo
+Wie komme ich zum Modul für Statistik?	find_module_statistic
+Ich brauche Hilfe bei der Suche nach dem Statistik_Modul. Wo ist es zu finden?	find_module_statistic
+Wo ist das Statistik_Modul zu finden?	find_module_statistic
+Ich kann keine Verbindung zu meinem Wrapper herstellen. Was kann ich tun?	no_connect_wrapper
+wie kann ich eine Gruppe erstellen	create_group
+wie kann ich eine Gruppe löschen	delete_group
+wie kann ich eine Gruppe bearbeiten	edit_group
+wie kann ich einen Wrapper bearbeiten	edit_wrapper
+wie kann ich einen Wrapper löschen	delete_wrapper
+wie kann ich einen Wrapper erstellen	create_wrapper
+Wie kann ich eine Gruppe erstellen?	create_group
+Wie kann ich eine Gruppe bearbeiten?	edit_group
+Wie kann ich eine Gruppe löschen?	delete_group
+Wie kann ich einen Wrapper erstellen?	create_wrapper
+Wie kann ich einen Wrapper bearbeiten?	edit_wrapper
+Wie kann ich einen Wrapper löschen?	delete_wrapper
+Wie erstelle ich eine Gruppe?	create_group
+Wie bearbeite ich eine Gruppe?	edit_group
+Wie lösche ich eine Gruppe?	delete_group
+Wie kann ich einen Wrapper erstellen?	create_wrapper
+Wie bearbeite ich einen Wrapper?	edit_wrapper
+Wie entferne ich einen Wrapper?	delete_wrapper
+Könnt ihr mir bitte sagen, wie ich eine Gruppe erstellen kann?	create_group
+Ich brauche Hilfe bei der Gruppenerstellung. Könnt ihr mir weiterhelfen?	create_group
+Wie kann ich eine Gruppe im System anlegen?	create_group
+Wie erstelle ich einen Wrapper?	create_wrapper
+Ich benötige Unterstützung bei der Erstellung eines Wrappers. Könnt ihr mir helfen?	create_wrapper
+Wie bearbeite ich einen Wrapper im System?	edit_wrapper
+Wie lösche ich eine Gruppe?	delete_group
+Könnt ihr mir sagen, wie ich eine Gruppe aus dem System löschen kann?	delete_group
+Ich benötige Unterstützung beim Löschen einer Gruppe. Wie kann ich das machen?	delete_group
+Wie kann ich einen Wrapper entfernen?	delete_wrapper
+Könnt ihr mir sagen, wie ich einen Wrapper aus dem System entfernen kann?	delete_wrapper
+Ich brauche Hilfe beim Löschen eines Wrappers. Wie geht das?	delete_wrapper
+Ich möchte eine Gruppe bearbeiten. Wie geht das?	edit_group
+Wie kann ich eine Gruppe bearbeiten?	edit_group
+Könnt ihr mir sagen, wie ich eine Gruppe bearbeiten kann?	edit_group
+Ich möchte einen Wrapper bearbeiten. Wie geht das?	edit_wrapper
+Wie kann ich einen Wrapper bearbeiten?	edit_wrapper
+Könnt ihr mir sagen, wie ich einen Wrapper bearbeiten kann?	edit_wrapper
+wie erstelle ich eine java version	create_java_version
+wie erstelle ich eine Proxy	create_proxy
+wie kann ich eine Proxy bearbeiten	edit_proxy
+wie kann ich eine Proxy löschen	delete_proxy
+wie kann ich eine Lobby bearbeiten	edit_lobby
+wie kann ich eine Lobby löschen	delete_lobby
+wie kann ich eine Lobby erstellen	create_lobby
+Wie erstelle ich eine Java_Version?	create_java_version
+Wie erstelle ich einen Proxy?	create_proxy
+Wie kann ich eine Proxy bearbeiten?	edit_proxy
+Wie kann ich eine Proxy löschen?	delete_proxy
+Wie kann ich eine Lobby bearbeiten?	edit_lobby
+Wie kann ich eine Lobby löschen?	delete_lobby
+Wie kann ich eine Lobby erstellen?	create_lobby
+Wie kann ich eine Java_Version erstellen?	create_java_version
+Wie erstelle ich einen neuen Proxy?	create_proxy
+Wie bearbeite ich einen Proxy?	edit_proxy
+Wie entferne ich einen Proxy?	delete_proxy
+Wie kann ich eine Lobby anpassen?	edit_lobby
+Wie kann ich eine Lobby entfernen?	delete_lobby
+Wie kann ich eine neue Lobby erstellen?	create_lobby
+Ich benötige Anleitung zum Erstellen einer Java_Version.	create_java_version
+Könnt ihr mir sagen, wie ich einen Proxy anlegen kann?	create_proxy
+Wie kann ich einen Proxy im System bearbeiten?	edit_proxy
+Wie kann ich einen Proxy aus dem System entfernen?	delete_proxy
+Wie kann ich eine Lobby bearbeiten?	edit_lobby
+Wie entferne ich eine Lobby aus dem System?	delete_lobby
+Wie erstelle ich eine neue Lobby?	create_lobby
+Wie lösche ich einen Proxy?	delete_proxy
+Könnt ihr mir sagen, wie ich einen Proxy aus dem System löschen kann?	delete_proxy
+Ich brauche Hilfe beim Löschen eines Proxys. Wie geht das?	delete_proxy
+Wie entferne ich eine Lobby aus dem System?	delete_lobby
+Könnt ihr mir sagen, wie ich eine Lobby aus dem System löschen kann?	delete_lobby
+Ich benötige Unterstützung beim Löschen einer Lobby. Wie kann ich das machen?	delete_lobby
+Wie kann ich eine Lobby bearbeiten?	edit_lobby
+Wie bearbeite ich eine Lobby im System?	edit_lobby
+Könnt ihr mir sagen, wie ich eine Lobby bearbeiten kann?	edit_lobby
+Wie kann ich eine Java_Version bearbeiten?	edit_java_version
+Wie bearbeite ich eine Java_Version im System?	edit_java_version
+Könnt ihr mir sagen, wie ich eine Java_Version bearbeiten kann?	edit_java_version
+wie kann ich eine Server erstellen	create_server
+wie kann ich eine Server bearbeiten	edit_server
+wie kann ich von einem Server den Status ändern	change_state_server
+wie kann ich dem Wrapper mehr ram geben	edit_wrapper_ram
+wie mache ich das das mehr server gleichzeitig starten können	start_multiple_server
+wie mache ich das das der wrapper mehr server auf einmal starten kann	start_multiple_server
+Wie kann ich eine Server erstellen	create_server
+Wie kann ich einen Server aufbauen	create_server
+Wie kann ich eine eigene Serverinstanz einrichten	create_server
+Wie erstelle ich einen Server	create_server
+Wie kann ich eine Server bearbeiten	edit_server
+Wie kann ich einen Server anpassen	edit_server
+Wie kann ich die Konfiguration eines Servers ändern	edit_server
+Wie modifiziere ich einen Server	edit_server
+Wie kann ich von einem Server den Status ändern	change_state_server
+Wie kann ich den Zustand eines Servers ändern	change_state_server
+Wie kann ich einen Serverstatus anpassen	change_state_server
+Wie ändere ich den Status eines Servers	change_state_server
+Wie kann ich dem Wrapper mehr RAM geben	edit_wrapper_ram
+Wie erhöhe ich den Arbeitsspeicher des Wrappers	edit_wrapper_ram
+Wie kann ich die RAM_Zuweisung für den Wrapper anpassen	edit_wrapper_ram
+Wie ändere ich den RAM für den Wrapper	edit_wrapper_ram
+Wie mache ich das das mehr Server gleichzeitig starten können	start_multiple_server
+Wie starte ich mehrere Server gleichzeitig	start_multiple_server
+Wie kann ich mehrere Server parallel starten	start_multiple_server
+Wie starte ich mehrere Server auf einmal wrapper	start_multiple_server
+Wie mache ich das der Wrapper mehr Server auf einmal starten kann	start_multiple_server
+Wie kann ich den Wrapper so einstellen, dass er mehrere Server auf einmal startet	start_multiple_server
+Wie starte ich mit dem Wrapper mehrere Server gleichzeitig	start_multiple_server
+Wie kann ich mehrere Server mit dem Wrapper parallel starten	start_multiple_server
+wo finde ich das chat_tab module	find_module_chat_tab
+wie geht das das mehrere server gleichzeitig starten können?	start_multiple_server
+habt ihr eine webseite	website
+wo finde ich eure webseite	website
+spigotmc link	spigotmc
+gibt es einen spigotmc link	spigotmc
+wie geht das das mehrere server gleichzeitig starten können?	edit_wrapper_start_multiple_server
+wie sehe ich die logs?	find_logs
+wo finde ich die logs	find_logs
+wie kann ich die logs sehen	find_logs
+wie kann ich mir die logs anschauen	find_logs
+wo finde ich die dashboard login daten	dashboard_logindetails
+wo stehen die zugangsdaten für das dashboard?	dashboard_logindetails
+wo finde ich die logindaten für das Dashboard?	dashboard_logindetails
+wo finde ich die logindaten?	dashboard_logindetails
+wie melde ich mich im dashboard an?	dashboard_logindetails
+Das Dashboard von theSimpleCloud, ich gebe die Daten korrekt ein aber bekomme einen Fehler zurück	dashboard_logindetails
+wie komme ich in die unterserver console	find_logs
+wie sehe ich die console von einem Server?	find_logs
+wo finde ich das Notify Module?	find_module_notify
+wo finde ich das CloudFlare module?	find_module_cloudflare
+gibt es ein Cloudflare Module	find_module_cloudflare
+wo gibt es eine CloudFlare intigration	find_module_cloudflare
+wo finde ich das Permissions Module?	find_module_permission
+gibt es ein Permission Module?	find_module_permission
+wo finde ich das Permissions module?	find_module_permission
+gibt es ein Proxy Module?	find_module_proxy
+gibt es ein BungeeModule	find_module_proxy
+gibt es ein Module für die Tablist und die MOTD	find_module_proxy
+wo finde ich das Proxy Module?	find_module_proxy
+gibt es ein Hub Module?	find_module_hub
+wo finde ich das Hub Module?	find_module_hub
+gibt es ein Lobby Module	find_module_hub
+wo finde ich das Lobby Module?	find_module_hub
+wo finde ich das InternalWrapper module?	find_module_internalwrapper
+gibt es ein InternalWrapper Module?	find_module_internalwrapper
+kann ich auf dem SimpleCloud Master Server noch einen Wrapper starten	find_module_internalwrapper
+kann ich auf dem selben server wo der master leuft noch einen wrapper laufen lassen?	find_module_internalwrapper
+welche datenbanken unterstützt simplecloud	database_support
+welche datenbanken werden unterstützt	database_support
+kann ich von mongo db auf mysql switchen?	database_switch_yes
+kann ich von mongodb auf mysql switchen?	database_switch_yes
+gibt es eine liste aller Module?	list_module
+wo finde ich alle Module?	list_module
+wie update ich die Cloud?	cloud_update
+wie kann man die cloud updaten?	cloud_update
+wie stelle ich den autoupdater aus?	disable_autoupdater
+wie kann man den auto updater deaktivieren?	disable_autoupdater
+kann ich das automatische updaten deaktivieren?	disable_autoupdater
+unterstützt die Cloud MongoDB?	database_support
+unterstützt die Cloud MYSQL?	database_support
+unterstützt die Cloud SQL?	database_support
+unterstützt die Cloud MariaDB?	database_support
+wann kommt die v3?	v3
+wo kann man simplecloud downloaden?	website
+wo kann ich die cloud downloaden	website
+Was kann die Cloud alles?	website
