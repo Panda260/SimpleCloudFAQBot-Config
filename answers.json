@@ -52,4 +52,6 @@
   "cloud_update": "Die Cloud updatet sich automatisch. Du musst nur die Cloud neu starten.",
   "disable_autoupdater": "Du kannst den Auto Updater in der start.sh deaktivieren. indem du den befehl `--disable-auto-updater` am ende hinzufügst.",
   "v3": "v3? Dauert noch etwas"
+  "v3": "v3? Dauert noch etwas",
+  "proxy_needed": "Du benötigst minimum 1 Proxy um joinen zu können. du kannst allerdings auch mehrere Proxy's erstellen."
 }
