@@ -12,7 +12,7 @@
   "find_module_statistic": "Das Statistic Module findest du auf github unten auf der seite. (github.com/theSimpleCloud/SimpleCloud)",
   "no_connect_wrapper": "Wenn dein Wrapper sich nicht verbindet dann schau dir am besten mal die logs an mit dem befehel `screen join InternalWrapper` kommst du in den Wrapper Screen um die logs zu sehen.",
   "find_placeholder": "Die Placeholder findest du im #faq channel.",
-  "stop_group": "Mit dem `shutdown <group>` command kannst du eine Gruppe stoppen.",
+  "stop_group": "Mit dem `shutdowngroup <group>` command kannst du eine Gruppe stoppen.",
   "create_group": "mit dem `create` commend kannst du Lobby, Proxy und Server Gruppen erstellen.",
   "delete_group": "Mit dem `delete <group>` command kannst du eine Gruppe löschen.",
   "edit_group": "Mit dem `edit group <group>` command kannst du eine Gruppe bearbeiten.",
